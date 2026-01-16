@@ -13,3 +13,5 @@ tamanho = 1.83
 # Declare uma variável do tipo booleano
 compra = False
 venda = True
+print (compra)
+print (nome)
